@@ -4,7 +4,7 @@
 -  Apple Development
 - Kotlin/Java Development
 - UI Design (SwiftUI)
-- Robotics: Raspberry Pi & iOT
+- Robotics: Raspberry Pi & IoT
 
 ## `💻 Programming Languages`
 - Swift ⭐️
