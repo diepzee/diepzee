@@ -4,11 +4,12 @@
 -  Apple Development
 - Kotlin/Java Development
 - UI Design (SwiftUI)
-- New programming languages
+- Robotics: Raspberry Pi & iOT
 
 ## `💻 Programming Languages`
 - Swift ⭐️
 - Kotlin
+- Python
 - Java
 - C#
 - JavaScript/TypeScript
