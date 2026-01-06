@@ -1,7 +1,7 @@
 # @diepzee
 
-## `{} Development Areas`
--  Apple Development
+## Development Areas
+- Apple Development
 - Kotlin/Java Development
 - Web Development (Angular, ShadCN)
 - Robotics: Raspberry Pi & IoT
