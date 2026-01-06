@@ -1,17 +1,9 @@
-# 🪼`@diepzee`
+# @diepzee
 
 ## `{} Development Areas`
 -  Apple Development
 - Kotlin/Java Development
-- UI Design (SwiftUI)
+- Web Development (Angular, ShadCN)
 - Robotics: Raspberry Pi & IoT
-
-## `💻 Programming Languages`
-- Swift ⭐️
-- Kotlin
-- Python
-- Java
-- C#
-- JavaScript/TypeScript
-- AppleScript
+- Machine Learning and Local Large Language Models (LLMs)
 
